@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ineedaham
+- 👀 I’m interested in C++, video games, 3D graphics, and physics in general!
+- 🌱 I’m currently learning C++ at a basic level, as well as robotics.
+- 💞️ I’m looking to collaborate on ... (leaving for future)
+- 📫 How to reach me: ... (leaving for future)
+- ⚡ Fun fact: I LOVE cars and engines!!!
