@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ineedaham
-- 👀 I’m interested in C++, video games, 3D graphics, and physics in general!
+- 👀 I’m interested in C++, videogames, 3D graphics, and physics in general!
 - 🌱 I’m currently learning C++ at a basic level, but plan to learn other languages in the future!
 - 💞️ I’m looking to collaborate on ... (leaving for future)
 - 📫 How to reach me: ... (leaving for future)
-- ⚡ Fun fact: I LOVE cars and engineering!!!
+- ⚡ Fun fact: I love cars and philosophy!
